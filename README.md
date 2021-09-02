@@ -1,2 +1,3 @@
 # Emotion-Recognition
-Emotion Recognition using TensorFlow, Keras, OpenCV
+Emotion Recognition Model using TensorFlow, Keras, OpenCV
+Part of Kaggle's https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/overview Competition
